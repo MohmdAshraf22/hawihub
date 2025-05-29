@@ -7,7 +7,7 @@
 ## 📸 Screenshots
 
 |---------------|-------|------|
-| ![splash](1.png) | ![login](1.png) | ![home](3.png) |
+| ![splash](1.png) | ![login](2.png) | ![home](3.png) |
 
 |---------------|----------------|--------|
 | ![field](4.png) | ![booking](5.png) | ![orders](6.png) |
